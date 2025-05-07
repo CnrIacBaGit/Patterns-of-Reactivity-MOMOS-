@@ -6,6 +6,10 @@ Generate patterns in the asymptotically stable and reactive region of the parame
 ## Overview
 
 This MATLAB script simulates the MOMOS reaction-diffusion system with chemotaxis. The system consists of two coupled PDEs for variables u and v, involving diffusion, chemotactic interaction, and nonlinear reaction kinetics.
+A full description of the model is available in:  
+**Transient Instability and Patterns of Reactivity in Diffusive-Chemotaxis Soil Carbon Dynamics**  
+Fasma Diele, Andrew L. Krause, Deborah Lacitignola,  
+Carmela Marangi, Angela Monti, Edgardo Villar-Sepúlveda (submitted)
 
 The user is prompted at runtime to choose one of four predefined parameter sets, each corresponding to a different regime in the parameter space. The corresponding initial conditions are automatically applied.
 
@@ -75,4 +79,4 @@ Both figures use interpolated shading, a jet colormap, and font size 14 with bol
 
 ## Contact
 
-For any questions or improvements, feel free to contact the author.
+For any questions or improvements, feel free to contact the authors. 
